@@ -14,6 +14,6 @@ while row_index < src.length do
 end
   outer_results << lowest_value
   row_index += 1
-
-
+end
+outer_results
 end
